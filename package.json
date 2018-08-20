@@ -1,5 +1,5 @@
 {
-  "name": "number-formatter",
+  "name": "@itssadon/number-formatter",
   "version": "0.1.0",
   "description": "Number formatter node package",
   "main": "index.js",
