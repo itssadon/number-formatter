@@ -1,0 +1,32 @@
+{
+  "name": "number-formatter",
+  "version": "0.1.0",
+  "description": "Number formatter node package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itssadon/number-formatter.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "NPM",
+    "Package",
+    "JavaScript"
+  ],
+  "author": "Abubakar Hassan <abubakarhassan59@gmail.com> (https://www.twitter.com/itssadon/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itssadon/number-formatter/issues"
+  },
+  "homepage": "https://github.com/itssadon/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
