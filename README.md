@@ -3,6 +3,10 @@ Number Formatter
 
 A small library that adds commas to numbers
 
+[![Build Status](https://travis-ci.org/itssadon/number-formatter.svg?branch=master)](https://travis-ci.org/itssadon/number-formatter)
+
+[![Coverage Status](https://coveralls.io/repos/github/itssadon/number-formatter/badge.svg?branch=master)](https://coveralls.io/github/itssadon/number-formatter?branch=master)
+
 ## Installation
 
   `npm install @itssadon/number-formatter`
